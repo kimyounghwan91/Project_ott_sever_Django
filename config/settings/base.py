@@ -32,7 +32,7 @@ SECRET_KEY = '%xr(y$fvt1-=u13bm!jolqm)@ml$ps9s0pig95b9(qd=s(29hi'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
