@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class MoviewebConfig(AppConfig):
-    name = 'movieweb'
+    name = 'myapp.movieweb'
