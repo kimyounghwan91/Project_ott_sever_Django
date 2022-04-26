@@ -79,7 +79,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'server_Django.wsgi.application'
+WSGI_APPLICATION = 'config.wsgi.application'
 
 
 DATABASES = {    
